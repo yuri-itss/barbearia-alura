@@ -1,10 +1,14 @@
 body {
-    background-color: #CCCCCC;
+    
 }
 
 #banner {
     height: 250px;
     width: 100%;
+}
+
+.principal {
+    background-color: #CCCCCC;
 }
 
 h1 {
@@ -21,6 +25,18 @@ p {
 
 em strong {
     color: red;
+}
+
+.beneficios {
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+#img-beneficios {
+    width: 50%;
 }
 
 .itens {
