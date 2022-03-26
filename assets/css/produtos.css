@@ -77,3 +77,15 @@ nav a:hover {
     font-weight: bold;
     margin: 10px 0 0;
 }
+
+footer {
+    text-align: center;
+    background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-papel-texturizado-liso-preto_53876-98333.jpg);
+    padding: 30px;
+}
+
+.copyright {
+    color: white;
+    font-size: 12px;
+    margin: 20px;
+}
