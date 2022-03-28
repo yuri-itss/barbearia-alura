@@ -240,3 +240,21 @@ td, th {
     width: 940px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 480px){
+    .caixa, .principal, .conteudo-beneficios, .conteudo-mapa, .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .lista-beneficios, .img-beneficios {
+        width: 100%;
+    }
+}
