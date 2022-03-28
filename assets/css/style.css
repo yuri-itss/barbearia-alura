@@ -213,6 +213,10 @@ td, th {
     font-weight: bold;
 }
 
+.itens::before {
+    content: "★";
+}
+
 .img-beneficios {
     width: 60%;
 }
